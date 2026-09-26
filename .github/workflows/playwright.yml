@@ -29,6 +29,11 @@ jobs:
           python -m pip install --upgrade pip
           python -m pip install -r requirements.txt
 
+      - name: Verify Playwright installation
+        run: |
+          python -m pip show playwright
+          python -m playwright --version
+
       - name: Install Playwright browsers
         run: |
           python -m playwright install --with-deps chromium
