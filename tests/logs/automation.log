@@ -1,0 +1,30 @@
+2026-09-26 21:50:38,268 - INFO - LoginPage - Starting login
+2026-09-26 21:50:38,272 - INFO - LoginPage - Entering username
+2026-09-26 21:50:38,364 - INFO - LoginPage - Entering password
+2026-09-26 21:50:38,411 - INFO - LoginPage - Clicking Login button
+2026-09-26 21:50:38,526 - INFO - LoginPage - Login completed
+2026-09-26 21:50:38,527 - INFO - ProductPage - Adding product to cart: Sauce Labs Backpack
+2026-09-26 21:50:38,778 - INFO - ProductPage - Product added successfully: Sauce Labs Backpack
+2026-09-26 21:50:38,780 - INFO - CartPage - Opening shopping cart
+2026-09-26 21:50:38,876 - INFO - CartPage - Shopping cart opened
+2026-09-26 21:50:38,877 - INFO - CartPage - Clicking Checkout
+2026-09-26 21:50:38,950 - INFO - CartPage - Checkout page opened
+2026-09-26 21:50:38,952 - INFO - CheckoutPage - Entering customer checkout details
+2026-09-26 21:50:39,095 - INFO - CheckoutPage - Clicking Continue
+2026-09-26 21:50:39,168 - INFO - CheckoutPage - Clicking Finish / Place Order
+2026-09-26 21:50:39,249 - INFO - CheckoutPage - Order placed successfully
+2026-09-26 21:56:13,883 - INFO - LoginPage - Starting login
+2026-09-26 21:56:13,884 - INFO - LoginPage - Entering username
+2026-09-26 21:56:13,972 - INFO - LoginPage - Entering password
+2026-09-26 21:56:14,015 - INFO - LoginPage - Clicking Login button
+2026-09-26 21:56:14,141 - INFO - LoginPage - Login completed
+2026-09-26 21:56:14,143 - INFO - ProductPage - Adding product to cart: Sauce Labs Backpack
+2026-09-26 21:56:14,317 - INFO - ProductPage - Product added successfully: Sauce Labs Backpack
+2026-09-26 21:56:14,318 - INFO - CartPage - Opening shopping cart
+2026-09-26 21:56:14,406 - INFO - CartPage - Shopping cart opened
+2026-09-26 21:56:14,407 - INFO - CartPage - Clicking Checkout
+2026-09-26 21:56:14,485 - INFO - CartPage - Checkout page opened
+2026-09-26 21:56:14,486 - INFO - CheckoutPage - Entering customer checkout details
+2026-09-26 21:56:14,593 - INFO - CheckoutPage - Clicking Continue
+2026-09-26 21:56:14,662 - INFO - CheckoutPage - Clicking Finish / Place Order
+2026-09-26 21:56:14,718 - INFO - CheckoutPage - Order placed successfully

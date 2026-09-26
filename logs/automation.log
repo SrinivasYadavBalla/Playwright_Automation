@@ -1,0 +1,20 @@
+2026-09-26 21:55:42,555 - INFO - LoginPage - Starting login
+2026-09-26 21:55:42,556 - INFO - LoginPage - Entering username
+2026-09-26 21:55:42,644 - INFO - LoginPage - Entering password
+2026-09-26 21:55:42,684 - INFO - LoginPage - Clicking Login button
+2026-09-26 21:55:42,862 - INFO - LoginPage - Login completed
+2026-09-26 21:55:45,210 - INFO - LoginPage - Starting login
+2026-09-26 21:55:45,210 - INFO - LoginPage - Entering username
+2026-09-26 21:55:45,290 - INFO - LoginPage - Entering password
+2026-09-26 21:55:45,328 - INFO - LoginPage - Clicking Login button
+2026-09-26 21:55:45,457 - INFO - LoginPage - Login completed
+2026-09-26 21:55:45,466 - INFO - ProductPage - Adding product to cart: Sauce Labs Backpack
+2026-09-26 21:55:45,614 - INFO - ProductPage - Product added successfully: Sauce Labs Backpack
+2026-09-26 21:55:45,615 - INFO - CartPage - Opening shopping cart
+2026-09-26 21:55:45,669 - INFO - CartPage - Shopping cart opened
+2026-09-26 21:55:45,670 - INFO - CartPage - Clicking Checkout
+2026-09-26 21:55:45,735 - INFO - CartPage - Checkout page opened
+2026-09-26 21:55:45,737 - INFO - CheckoutPage - Entering customer checkout details
+2026-09-26 21:55:45,846 - INFO - CheckoutPage - Clicking Continue
+2026-09-26 21:55:45,909 - INFO - CheckoutPage - Clicking Finish / Place Order
+2026-09-26 21:55:45,970 - INFO - CheckoutPage - Order placed successfully
