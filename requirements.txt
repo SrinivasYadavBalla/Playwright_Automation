@@ -1,2 +1,4 @@
-playwright
-pytest
+playwright==1.63.0
+pytest==9.1.1
+pytest-playwright
+pytest-html
