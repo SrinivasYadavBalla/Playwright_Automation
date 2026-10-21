@@ -1,10 +1,11 @@
+
 from Utils.logger import get_logger
+from playwright.sync_api import expect
 
 
 class CheckoutPage:
 
     def __init__(self, page):
-
         self.page = page
         self.logger = get_logger("CheckoutPage")
 
@@ -30,7 +31,6 @@ class CheckoutPage:
         last_name,
         postal_code
     ):
-
         self.logger.info(
             "Entering customer checkout details"
         )
@@ -40,15 +40,16 @@ class CheckoutPage:
         self.postal_code.fill(postal_code)
 
     def click_continue(self):
-
         self.logger.info("Clicking Continue")
-
         self.continue_button.click()
 
     def place_order(self):
-
         self.logger.info("Clicking Finish / Place Order")
 
         self.finish_button.click()
+
+        expect(self.success_message).to_have_text(
+            "Thank you for your order!"
+        )
 
         self.logger.info("Order placed successfully")
